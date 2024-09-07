@@ -1,4 +1,4 @@
-## ️ Clima Sergipe: Descubra a temperatura da sua cidade! ☀️ / Imersão Dev Alura e Google Gemini
+## ️ Clima Sergipe: Descubra a temperatura da sua cidade! ☀️ / Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
